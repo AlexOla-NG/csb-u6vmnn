@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.js": "https://alexola-ng.github.io/csb-u6vmnn/static/js/main.920ef67a.chunk.js",
+    "main.js.map": "https://alexola-ng.github.io/csb-u6vmnn/static/js/main.920ef67a.chunk.js.map",
+    "runtime-main.js": "https://alexola-ng.github.io/csb-u6vmnn/static/js/runtime-main.c178484e.js",
+    "runtime-main.js.map": "https://alexola-ng.github.io/csb-u6vmnn/static/js/runtime-main.c178484e.js.map",
+    "static/js/2.39d5251c.chunk.js": "https://alexola-ng.github.io/csb-u6vmnn/static/js/2.39d5251c.chunk.js",
+    "static/js/2.39d5251c.chunk.js.map": "https://alexola-ng.github.io/csb-u6vmnn/static/js/2.39d5251c.chunk.js.map",
+    "index.html": "https://alexola-ng.github.io/csb-u6vmnn/index.html",
+    "static/js/2.39d5251c.chunk.js.LICENSE.txt": "https://alexola-ng.github.io/csb-u6vmnn/static/js/2.39d5251c.chunk.js.LICENSE.txt",
+    "static/media/bg-boost-desktop.772154c9.svg": "https://alexola-ng.github.io/csb-u6vmnn/static/media/bg-boost-desktop.772154c9.svg",
+    "static/media/bg-boost-mobile.4b04bd89.svg": "https://alexola-ng.github.io/csb-u6vmnn/static/media/bg-boost-mobile.4b04bd89.svg",
+    "static/media/bg-shorten-desktop.0d9742f4.svg": "https://alexola-ng.github.io/csb-u6vmnn/static/media/bg-shorten-desktop.0d9742f4.svg",
+    "static/media/bg-shorten-mobile.41c34b33.svg": "https://alexola-ng.github.io/csb-u6vmnn/static/media/bg-shorten-mobile.41c34b33.svg",
+    "static/media/icon-brand-recognition.c349d3b6.svg": "https://alexola-ng.github.io/csb-u6vmnn/static/media/icon-brand-recognition.c349d3b6.svg",
+    "static/media/icon-detailed-records.265c8aea.svg": "https://alexola-ng.github.io/csb-u6vmnn/static/media/icon-detailed-records.265c8aea.svg",
+    "static/media/icon-facebook.75c9b682.svg": "https://alexola-ng.github.io/csb-u6vmnn/static/media/icon-facebook.75c9b682.svg",
+    "static/media/icon-fully-customizable.a1532a74.svg": "https://alexola-ng.github.io/csb-u6vmnn/static/media/icon-fully-customizable.a1532a74.svg",
+    "static/media/icon-instagram.eb79d7a1.svg": "https://alexola-ng.github.io/csb-u6vmnn/static/media/icon-instagram.eb79d7a1.svg",
+    "static/media/icon-pinterest.93bd147f.svg": "https://alexola-ng.github.io/csb-u6vmnn/static/media/icon-pinterest.93bd147f.svg",
+    "static/media/icon-twitter.9c32ea38.svg": "https://alexola-ng.github.io/csb-u6vmnn/static/media/icon-twitter.9c32ea38.svg",
+    "static/media/illustration-working.c9b5ef54.svg": "https://alexola-ng.github.io/csb-u6vmnn/static/media/illustration-working.c9b5ef54.svg",
+    "static/media/logo.59aabf73.svg": "https://alexola-ng.github.io/csb-u6vmnn/static/media/logo.59aabf73.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c178484e.js",
+    "static/js/2.39d5251c.chunk.js",
+    "static/js/main.920ef67a.chunk.js"
+  ]
+}
